@@ -1,0 +1,9 @@
+/.env
+/Judge_202304162041.csv
+/signup_user_202304221034.csv
+/env
+/.vscode
+.DS_Store
+data.json
+db.sqlite3
+PRIVATE_FILES_SRPC_BACK_END.zip
