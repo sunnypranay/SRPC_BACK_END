@@ -212,8 +212,6 @@ After successfully connecting to your AWS EC2 instance via SSH, perform the foll
      ```
    - Use `ls` to view the contents of the directory to confirm you're in the right place.
 
----
-Your guide for checking if the application is running for testing purposes is clear and it outlines the steps well. Here are some small suggestions to make it more comprehensive:
 
 ---
 
